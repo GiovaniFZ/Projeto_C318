@@ -1,0 +1,1 @@
+Esse projeto consiste em analisar dados sobre multas aplicadas em veículos no ano de 2024, respondendo perguntas de negócio.
