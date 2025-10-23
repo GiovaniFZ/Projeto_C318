@@ -6,5 +6,6 @@ Esse projeto consiste em analisar dados sobre multas aplicadas em veículos no a
 
 ## Perguntas de negócio
 1. Quais tipos de multas tiveram mais ocorrências no ano de 2024?
-
+2. Qual estado do Brasil possui o maior número de ocorrências?
+3. Em qual horário ocorrem mais?
 
