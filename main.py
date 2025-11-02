@@ -17,7 +17,8 @@ def load_data(file_path):
         print("Error: There was a parsing error while reading the file.")
         return None
 
-data = load_data(file_path)
-if data is not None:
-    print(data.head())
-    print("Data loaded successfully:")     
+df = load_data(file_path)
+if df is not None:
+    print(df.info())
+    df_describe = df.describe()
+    
