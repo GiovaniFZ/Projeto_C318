@@ -17,4 +17,4 @@ Esse projeto consiste em analisar dados sobre acidentes em veículos no ano de 2
 10. Quais são as principais causas dos acidentes em Minas Gerais?
 11. Existe relação entre horário e tipo de acidente em Minas Gerais?
 12. Quais municípios de Minas Gerais registram mais acidentes?
-13. Qual porcentagem dos acidentes em MG envolve caminhões?
+
