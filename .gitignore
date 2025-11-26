@@ -1,0 +1,3 @@
+*.tsv
+*.json
+catboost_info/
