@@ -1,0 +1,8 @@
+jupyter
+pandas
+numpy
+matplotlib
+folium
+requests
+kmodes
+scikit-learn
