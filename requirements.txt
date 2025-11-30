@@ -6,3 +6,4 @@ folium
 requests
 kmodes
 scikit-learn
+catboost
